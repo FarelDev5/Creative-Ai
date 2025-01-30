@@ -1,5 +1,17 @@
 {
-  "button1": { "count": 100 },
-  "button2": { "count": 100 }
+  "like": {
+    "count": 1200
+  },
+  "share": {
+    "count": 800
+  },
+  "comment": {
+    "count": 500
+  },
+  "favorite": {
+    "count": 300
+  },
+  "viewers": {
+    "count": 15000
+  }
 }
-
