@@ -1,1 +1,5 @@
-{}
+{
+  "button1": { "count": 100 },
+  "button2": { "count": 100 }
+}
+
